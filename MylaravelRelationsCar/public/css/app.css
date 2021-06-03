@@ -1,0 +1,13 @@
+body {
+  background-color: coral;
+}
+
+ul {
+  list-style-position: none;
+}
+
+ul a {
+  text-decoration: none;
+  color: black;
+}
+
