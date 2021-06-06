@@ -20,7 +20,7 @@ class CreateCarsTable extends Migration
         $table -> bigInteger('kw');
 
         //one to many
-        $table -> bigInteger('brand_id') -> unsigned() -> index(); 
+        $table -> bigInteger('brand_id') -> unsigned() -> index();
 
         $table->timestamps();
       });

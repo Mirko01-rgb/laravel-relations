@@ -1,10 +1,16 @@
 body{
   background-color: coral;
+
 }
 ul{
-  list-style-position: none;
+  list-style-type: none;
   a{
     text-decoration: none;
     color: black;
+
   }
+}
+
+.margin{
+  margin: 20px 0;
 }

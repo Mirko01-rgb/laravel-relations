@@ -3,11 +3,15 @@ body {
 }
 
 ul {
-  list-style-position: none;
+  list-style-type: none;
 }
 
 ul a {
   text-decoration: none;
   color: black;
+}
+
+.margin {
+  margin: 20px 0;
 }
 
